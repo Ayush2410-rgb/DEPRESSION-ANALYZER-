@@ -1,0 +1,22 @@
+
+text,label
+"I feel sad and overwhelmed today",distress_related
+"I have been feeling lonely lately",distress_related
+"Everything feels difficult right now",distress_related
+"I feel stressed about my future",distress_related
+"I have trouble finding motivation",distress_related
+"I feel emotionally exhausted",distress_related
+"I am worried about many things",distress_related
+"I feel disconnected from others",distress_related
+"I have been having a difficult week",distress_related
+"I feel discouraged about my progress",distress_related
+"I enjoyed spending time with friends",other
+"Today was a pleasant day",other
+"I am excited about my new project",other
+"I love listening to music",other
+"I completed my assignment today",other
+"I am looking forward to the weekend",other
+"I learned something interesting today",other
+"I enjoyed reading a book",other
+"I had a productive morning",other
+"I am happy with my progress",other

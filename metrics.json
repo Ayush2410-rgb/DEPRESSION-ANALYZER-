@@ -1,0 +1,45 @@
+{
+    "accuracy": 0.7789982868084249,
+    "classification_report": {
+        "Anxiety": {
+            "precision": 0.7595993322203672,
+            "recall": 0.8265213442325159,
+            "f1-score": 0.7916485428447151,
+            "support": 1101.0
+        },
+        "Depression": {
+            "precision": 0.7379421221864951,
+            "recall": 0.6328852119958635,
+            "f1-score": 0.6813880126182965,
+            "support": 2901.0
+        },
+        "Normal": {
+            "precision": 0.8906659674882014,
+            "recall": 0.9235997824904839,
+            "f1-score": 0.906833956219968,
+            "support": 3678.0
+        },
+        "Suicidal": {
+            "precision": 0.6549731737515476,
+            "recall": 0.7075345519393669,
+            "f1-score": 0.680240034290613,
+            "support": 2243.0
+        },
+        "accuracy": 0.7789982868084249,
+        "macro avg": {
+            "precision": 0.7607951489116529,
+            "recall": 0.7726352226645575,
+            "f1-score": 0.7650276364933981,
+            "support": 9923.0
+        },
+        "weighted avg": {
+            "precision": 0.7781984499026476,
+            "recall": 0.7789982868084249,
+            "f1-score": 0.776924857217434,
+            "support": 9923.0
+        }
+    },
+    "training_samples": 39689,
+    "testing_samples": 9923,
+    "dataset_size": 49612
+}
