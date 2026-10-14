@@ -132,4 +132,4 @@ GitHub: [Your GitHub Profile](https://github.com/Ayush2410-rgb)
 
 ---
 
-⭐ If you find this project interesting, consider starring the repository!
+⭐ If you find this project interesting, consider starring the repository
