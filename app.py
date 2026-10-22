@@ -97,6 +97,9 @@ if not Path(METRICS_PATH).exists():
     st.stop()
 
 model = joblib.load(MODEL_PATH)
+severity_model = None
+if Path("severity_model.pkl").exists():
+    severity_model = joblib.load("severity_model.pkl")
 
 with open(METRICS_PATH, "r") as file:
     metrics = json.load(file)
